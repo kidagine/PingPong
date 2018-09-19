@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PingWorld
+comment1.params=
+comment1.target=PingWorld()
+comment2.params=
+comment2.target=Level\ getLevel()
+comment3.params=gameStarted
+comment3.target=PingWorld(boolean)
+numComments=4
